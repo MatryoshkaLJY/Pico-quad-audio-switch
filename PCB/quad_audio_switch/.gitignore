@@ -1,0 +1,15 @@
+# KiCad project files to ignore
+*.bak
+*.lck
+*.prl
+
+# Backup and cache directories
+quad_audio_switch-backups/
+fp-info-cache
+
+# User-specific or environment files
+*.zip
+*.htm
+
+# Ignore any temporary files
+*~
